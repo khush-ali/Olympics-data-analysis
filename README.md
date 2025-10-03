@@ -20,5 +20,5 @@ Dataset used for analysis: [Dataset](olympics_data.csv)
 - Event for men: 8817
 - Event for women: 5773
 # Files
-- For Data Cleaning : [olympics data]
-- for analysis: [analysis](netflix.pbix)
+- For Data Cleaning : [olympics data](olympics.ipynb)
+- for analysis: [analysis](olympics.pbix)
